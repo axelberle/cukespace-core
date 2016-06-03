@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.github.cukespace</groupId>
+  <artifactId>cukespace-core</artifactId>
+  <versioning>
+    <versions>
+      <version>1.6.2-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20160603174108</lastUpdated>
+  </versioning>
+</metadata>
