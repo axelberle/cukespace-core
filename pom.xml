@@ -6,7 +6,7 @@
 
 	<groupId>com.github.cukespace</groupId>
 	<artifactId>cukespace-core</artifactId>
-	<version>1.6.2-SNAPSHOT</version>
+	<version>1.6.2_1</version>
 
 	<name>Cukes in Space!</name>
 	<url>https://github.com/lmcgrath/cukespace</url>
